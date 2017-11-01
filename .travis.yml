@@ -1,0 +1,9 @@
+language: node_js
+node_js:
+  - "iojs"
+  - "6"
+
+  on:
+    repo: natphasuth/npera
+  api_key:
+    secure: c312119016976c4e3efce08dd4fdf7896f905d8d 
